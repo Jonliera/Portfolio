@@ -12,7 +12,7 @@
 
 ## Description
 
-_This project is to show my progress with the different types of languages used in coding. So far I've only been using HTML, CSS, Markdonw and Bootstrap and Github.It is my fisrt project to get revied by a professional. Here is a [link]https://github.com/Jonliera/Portfolio.git_
+_This project is to show my progress with the different types of languages used in coding. So far I've only been using HTML, CSS, Markdonw and Bootstrap and Github.It is my fisrt project to get revied by a professional. Here is a [link]https://jonliera.github.io/Portfolio/_
 
 ## Setup/Installation Requirements
 
